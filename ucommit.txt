@@ -1,1 +1,1 @@
-i7: Se edita readme
+Se corrige un error en la línea main.qml 89

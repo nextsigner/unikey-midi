@@ -86,7 +86,6 @@ ApplicationWindow{
         Teclado{id: teclado}
     }
     Capturador{id: capturador}
-    /
     Component.onCompleted: {
         apps.cSoundFontsPath= '/usr/share/sounds/sf2/FluidR3_GM.sf2'
         //cancion.play()
